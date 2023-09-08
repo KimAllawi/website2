@@ -1,0 +1,134 @@
+*{
+  padding: 0;
+ margin: 0; 
+}
+
+.h1{
+ display: inline;
+ color: rgb(0, 255, 55);
+ float: left;
+ font-size: 20px;
+ margin-left: 40px;
+}
+
+.header{
+ width: 100%;
+ height: 40px;
+ margin-top: 10px;
+}
+
+.header button{
+ display: inline;
+ float: right;
+ width: 60px;
+ height: 25px;
+ margin-right: 40px;
+}
+
+ul{
+ list-style: none;
+ float: right;
+ margin-right: 200px;
+ 
+
+ 
+}
+
+ul li{
+ display: inline;
+ margin:14px;
+}
+
+.git{
+  width: 100%;
+  height: 300px;
+  background:rgb(9, 255, 0) url('../imges/office.png') bottom ;
+  background-size: 100%;
+}
+
+.git h2{
+  padding: 50px 0 0 30px;
+  font-size: 40px;
+}
+
+.git p{
+  padding-left: 34px;
+
+}
+
+.chat , .office , .phone{
+ float: left;
+ width: 340px;
+ height: 130px;
+ border: 1px solid aquamarine;
+ border-radius: 10px;
+ 
+ 
+ 
+}
+
+.office {
+ margin: auto 100px;
+}
+
+
+.content{
+ margin: 50px 0 0 50px;
+ display: inline-block;
+ width: 96%;
+ /*! background-color: red */
+}
+
+.content h2 , p , span , a{
+ margin-left:  18px;
+    
+}
+
+.content p{
+ margin: 15px;
+}
+
+.content h2{
+ font-size: 18px;
+ padding-top: 12px;
+ 
+}
+
+.text{
+ margin: 20px 0 0 50px;
+}
+
+.text p{
+ margin-left: -1px;
+}
+
+.form{
+ margin-top: 30px;
+ border: 1px solid red;
+ margin-left: 20px;
+ padding-left: 20px;
+ width: 90%;
+  height: 450px;
+  }
+
+
+
+.name{
+  padding-top: 30px;
+  float: left;
+  width: 100%;
+}
+
+.mobile{
+  margin-top: 20px;
+}
+
+.footer{
+  margin-top: 20px;
+  background-color: rgba(255, 0, 0, 0.671);
+  width: 66px;
+  height: 36px;
+  border: 0;
+  border-radius: 3px;
+}
+
